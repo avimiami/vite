@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "name": {
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    "address": "261 Erdman Ford",
+    "city": "East Daphne",
+    "state": "Kentucky",
+    "age": 30,
+    "wealth": 120000,
+    "description": "John is an avid sports enthusiast who loves to travel."
+  },
+  {
+    "id": "2",
+    "name": {
+      "firstName": "Jane",
+      "lastName": "Doe"
+    },
+    "address": "769 Dominic Grove",
+    "city": "Columbus",
+    "state": "Ohio",
+    "age": 28,
+    "wealth": 95000,
+    "description": "Jane is a software developer with a passion for coding and hiking."
+  },
+  {
+    "id": "3",
+    "name": {
+      "firstName": "Joe",
+      "lastName": "Doe"
+    },
+    "address": "566 Brakus Inlet",
+    "city": "South Linda",
+    "state": "West Virginia",
+    "age": 35,
+    "wealth": 150000,
+    "description": "Joe is a professional photographer who enjoys capturing nature."
+  },
+  {
+    "id": "4",
+    "name": {
+      "firstName": "Kevin",
+      "lastName": "Vandy"
+    },
+    "address": "722 Emie Stream",
+    "city": "Lincoln",
+    "state": "Nebraska",
+    "age": 40,
+    "wealth": 70000,
+    "description": "Kevin is an engineer who loves building gadgets and cooking."
+  },
+  {
+    "id": "5",
+    "name": {
+      "firstName": "Joshua",
+      "lastName": "Rolluffs"
+    },
+    "address": "32188 Larkin Turnpike",
+    "city": "Charleston",
+    "state": "South Carolina",
+    "age": 45,
+    "wealth": 180000,
+    "description": "Joshua is a financial analyst with a keen interest in music and art."
+  },
+  {
+    "id": "6",
+    "name": {
+      "firstName": "Emma",
+      "lastName": "Smith"
+    },
+    "address": "123 Maple Street",
+    "city": "Springfield",
+    "state": "Illinois",
+    "age": 27,
+    "wealth": 85000,
+    "description": "Emma is a graphic designer who enjoys painting and reading novels."
+  },
+  {
+    "id": "7",
+    "name": {
+      "firstName": "Liam",
+      "lastName": "Johnson"
+    },
+    "address": "456 Oak Avenue",
+    "city": "Austin",
+    "state": "Texas",
+    "age": 33,
+    "wealth": 110000,
+    "description": "Liam is a web developer with a passion for travel and cooking."
+  },
+  {
+    "id": "8",
+    "name": {
+      "firstName": "Olivia",
+      "lastName": "Brown"
+    },
+    "address": "789 Pine Lane",
+    "city": "Portland",
+    "state": "Oregon",
+    "age": 29,
+    "wealth": 90000,
+    "description": "Olivia is a marketing specialist who loves yoga and gardening."
+  },
+  {
+    "id": "9",
+    "name": {
+      "firstName": "Noah",
+      "lastName": "Williams"
+    },
+    "address": "101 Birch Road",
+    "city": "Seattle",
+    "state": "Washington",
+    "age": 31,
+    "wealth": 120000,
+    "description": "Noah is a data scientist who enjoys hiking and photography."
+  },
+  {
+    "id": "10",
+    "name": {
+      "firstName": "Ava",
+      "lastName": "Jones"
+    },
+    "address": "202 Cedar Drive",
+    "city": "Denver",
+    "state": "Colorado",
+    "age": 25,
+    "wealth": 70000,
+    "description": "Ava is a fashion designer who has a love for cooking and traveling."
+  }
+]
